@@ -31,7 +31,7 @@ La **bar de navigation** du site web devra contenir :
 
 - Un lien vers la page d'accueil nommé **Accueil**
 - Un lien nommé **Photos** listant , par **ordre décroissant** de création les biens immobilliers , que par **photos** sous forme de **galleries** ainsi vous devez avoir le **titre de l'annonce** et la **photo**
-- Un lien nommé **Prix** listant tous les biens immobilliers comme sur la **page d'acceuil** par **ordre décroissant de prix**
+- Un lien nommé **Prix** listant tous les biens immobilliers comme sur la **page d'acceuil** par **ordre croissant de prix**
 - Un lien **Admin** pour le **dashboard** qui permet de gérer les biens immobiliers
 
 La base de donnée se nommera **immoboullier**.
